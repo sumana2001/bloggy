@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "http://localhost:2368",
+    "contentApiKey": "a6fef0a49bac3f230703b76187"
+  },
+  "production": {
+    "apiUrl": "https://webwiz-blog.herokuapp.com",
+    "contentApiKey": "a6fef0a49bac3f230703b76187"
+  }
+}
